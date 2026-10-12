@@ -1,6 +1,6 @@
 # Cấu hình vGPU NVIDIA trên OpenStack
 
-💡 Đây chỉ là tài liệu tham khảo. Các thông số kỹ thuật hay lỗi phát sinh có thể phát sinh.
+💡 Đây chỉ là tài liệu tham khảo. Các thông số kỹ thuật hay lỗi có thể phát sinh.
 
 ---
 # 1. Tổng quan môi trường
